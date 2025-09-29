@@ -57,9 +57,6 @@ hotel-management-system/
    - Compile and run `HotelManagementSystem.java`.
    - Login with test credentials (e.g., `admin/admin`).
 
-## 📸 Screenshots
-(Add screenshots of your Login, Dashboard, and Booking pages here)
-
 ## 🤝 Contribution
 Contributions are welcome! Feel free to fork this project and submit a pull request.
 
